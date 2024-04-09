@@ -15,17 +15,17 @@
 <!-- Languages Known -->
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20px"/> Languages and Tools:</h3>
 <p align="left">
-    <img align="center" src="https://i.pinimg.com/564x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" alt="Python" height="30" width="40" /></a> 
-    <img align="center" src="https://i.pinimg.com/564x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg" alt="Javascript" height="30" width="40" /></a>
-    <img align="center" src="https://i.pinimg.com/564x/b6/f5/b4/b6f5b4fd59507360c3753e7738068530.jpg" alt="HTML" height="30" width="40" /></a>
-    <img align="center" src="https://i.pinimg.com/564x/1c/26/cf/1c26cfa516c2a22e6c1ba4f956c42f58.jpg" alt="MySQL" height="30" width="40" /></a>
-    <img align="center" src="https://dh.library.virginia.edu/system/files/styles/large/private/MySQL.PNG?itok=y4tI90y8" alt="GitHub" height="30" width="40" /></a>
-    <img align="center" src="https://i.pinimg.com/564x/64/88/0b/64880b9b0fe5b53bbe3f7280d262b33f.jpg" alt="AJAX" height="30" width="40" /></a>
-    <img align="center" src="https://i.pinimg.com/564x/77/a9/53/77a953a5eb81d30688ec01408fbf3743.jpg" alt="Fetch API" height="30" width="40" /></a>
-    <img align="center" src="https://i.pinimg.com/564x/71/08/b5/7108b50c64d6714f430d6992f77f5818.jpg" alt="FastAPI" height="30" width="40" /></a>
-    <img align="center" src="https://i.pinimg.com/564x/25/7a/1e/257a1e7655c3fa4f163b641ddbafef38.jpg" alt="sathishulip" height="30" width="40" /></a>
-    <img align="center" src="https://editor.analyticsvidhya.com/uploads/95103cv.png" alt="Opencv" height="30" width="40" /></a>
-    <img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*msfsws06ImMSJYop.jpg" alt="SQLAlchemy" height="30" width="40" /></a>
+    <img align="center" src="https://i.pinimg.com/564x/2f/9c/11/2f9c11f9e55efbf1791f12c06d60729b.jpg" alt="Python" height="50" width="50" /></a> 
+    <img align="center" src="https://i.pinimg.com/564x/69/e2/b3/69e2b3be6001c33141a95557a5f2cbcd.jpg" alt="Javascript" height="50" width="50" /></a>
+    <img align="center" src="https://i.pinimg.com/564x/b6/f5/b4/b6f5b4fd59507360c3753e7738068530.jpg" alt="HTML" height="50" width="50" /></a>
+    <img align="center" src="https://i.pinimg.com/564x/1c/26/cf/1c26cfa516c2a22e6c1ba4f956c42f58.jpg" alt="MySQL" heightheight="50" width="50" /></a>
+    <img align="center" src="https://dh.library.virginia.edu/system/files/styles/large/private/MySQL.PNG?itok=y4tI90y8" alt="GitHub" height="50" width="50" /></a>
+    <img align="center" src="https://i.pinimg.com/564x/64/88/0b/64880b9b0fe5b53bbe3f7280d262b33f.jpg" alt="AJAX" height="50" width="50" /></a>
+    <img align="center" src="https://i.pinimg.com/564x/77/a9/53/77a953a5eb81d30688ec01408fbf3743.jpg" alt="Fetch API" height="50" width="50" /></a>
+    <img align="center" src="https://i.pinimg.com/564x/71/08/b5/7108b50c64d6714f430d6992f77f5818.jpg" alt="FastAPI" height="50" width="50" /></a>
+    <img align="center" src="https://i.pinimg.com/564x/25/7a/1e/257a1e7655c3fa4f163b641ddbafef38.jpg" alt="sathishulip" height="50" width="50" /></a>
+    <img align="center" src="https://editor.analyticsvidhya.com/uploads/95103cv.png" alt="Opencv" height="50" width="50" /></a>
+    <img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*msfsws06ImMSJYop.jpg" alt="SQLAlchemy" height="50" width="50" /></a>
 </p>
 <!-- /Languages Known -->
 
